@@ -25,16 +25,12 @@ Live link : https://focus-mate-app.vercel.app/
 The application is designed with ease of use in mind, providing an intuitive interface for users to manage their tasks. Features like task filtering and dark mode enhance usability, while local storage ensures the app maintains data integrity. The app is lightweight, fast, and ensures a smooth interaction experience across devices.
 
 ## How to Run the Project
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/focusmate.git
-   cd focusmate
-   ```
-2. Install dependencies:  
+
+1. Install dependencies:  
    ```bash
    npm install
    ```
-3. Start the development server:  
+2. Start the development server:  
    ```bash
    npm start
    ```
